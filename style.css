@@ -1,0 +1,15 @@
+.first_div{
+	height: 450px;
+	width: 500px;
+	margin: 0 auto;
+	border: 2px solid green;
+	padding: 20px;
+	margin-top: 30px;
+}
+.second_div{
+	height: 50px;
+	width: 500px;
+	background-color: yellow;
+	margin: 0 auto;
+	border: 2px solid green;
+}
